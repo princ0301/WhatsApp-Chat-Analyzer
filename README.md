@@ -12,12 +12,12 @@ This projrct is a WhatsApp Chat Analyzer that provides various insight and stati
 ## Installation
 
 1. Clone the repository:
-   '''sh
+   ```sh
    git clone https://github.com/princ0301/WhatsApp-Chat-Analyzer.git
    cd WhatsApp-Chat-Analyzer
-   '''
+   
 
-3. Install the required packages:
-   '''sh
+2. Install the required packages:
+   ```sh
    pip install -r requirements.txt
-   '''
+   
