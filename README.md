@@ -1,8 +1,8 @@
 # WhatsApp-Chat-Analyzer
 ```sh
-(https://whatsappcanalyzer-7419bf9fb243.herokuapp.com/)
+https://whatsappcanalyzer-7419bf9fb243.herokuapp.com/
 ```
-This projrct is a WhatsApp Chat Analyzer that provides various insight and statistics about your WhatsApp chayts.
+This projrct is a WhatsApp Chat Analyzer that provides various insight and statistics about your WhatsApp chats.
 
 ## Features
 
@@ -23,6 +23,7 @@ This projrct is a WhatsApp Chat Analyzer that provides various insight and stati
 2. Install the required packages:
    ```sh
    pip install -r requirements.txt
+   ```
 
 ## Usage
 1. Run the Streamlit application:
@@ -39,8 +40,9 @@ For this project, I used my personal WhatsApp chat dataset. This includes chats 
 
 ## Project Structure
 
- - app.py                      # Main application file
- - preprocessor.py             # Data preprocessing functions
- - helper.py                   # Helper functions for analysis
- - requirements.txt            # Required Python packages
- - README.md                   # This file
+ .
+├── app.py
+├── preprocessor.py
+├── helper.py
+├── requirements.txt
+└── README.md
