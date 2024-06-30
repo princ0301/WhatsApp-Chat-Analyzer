@@ -40,9 +40,7 @@ For this project, I used my personal WhatsApp chat dataset. This includes chats 
 
 ## Project Structure
 
- .
-├── app.py
-├── preprocessor.py
-├── helper.py
-├── requirements.txt
-└── README.md
+ - app.py (Main application file)
+ - preprocessor.py (Data preprocessing functions)
+ - helper.py  (Helper functions for analysis)
+ - requirements.txt  (Required Python packages)
