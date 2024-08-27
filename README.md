@@ -1,7 +1,4 @@
 # WhatsApp-Chat-Analyzer
-```sh
-https://whatsappcanalyzer-7419bf9fb243.herokuapp.com/
-```
 This projrct is a WhatsApp Chat Analyzer that provides various insight and statistics about your WhatsApp chats.
 
 ## Features
